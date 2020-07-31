@@ -16,6 +16,7 @@ setTimeout(() => {
 console.log("");
 console.log("Usage : main.js <url> <file Path> <api Key>");
 console.log("");
+console.log(e);
 
 }
 
@@ -113,6 +114,7 @@ request(options, function (error, response, body) {
 console.log("");
 console.log("Usage : main.js <url> <file Path> <api Key>");
 console.log("");
+console.log(e);
 
 }
 
