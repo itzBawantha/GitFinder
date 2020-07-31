@@ -3,9 +3,9 @@ Find The Git Folder from the list of Sub Domains
 
 # Usage
 
-    * Git Clone https://github.com/itzBawantha/SubDomainValidator.git
+    * Git Clone https://github.com/itzBawantha/GitFinder.git
        
-    * cd ./SubDomainValidator/
+    * cd ./GitFinder/
         
     * npm install 
   
