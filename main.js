@@ -77,7 +77,7 @@ function getSubdomains(url) {
     });
     
     var request = require('request');
-    // process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
+    process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
     
     var burp0_headers = {
         "Upgrade-Insecure-Requests": "1", 
